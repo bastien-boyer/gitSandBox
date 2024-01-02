@@ -1,0 +1,8 @@
+ fatal: The current branch <branchname> has no upstream branch.
+ To push the current branch and set the remote as upstream, use
+     git push --set-upstream origin <branchname>
+
+ Git n'est pas configuré pour créer automatiquement la branche en remote. Fixe avec :
+ git config --global push.default current
+
+ --------------
