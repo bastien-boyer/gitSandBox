@@ -1,0 +1,4 @@
+Fichier placé à la racine du projet.
+Il permet d'ignorer les fichiers "listés" dedans (node module, log etc..) afin de ne pas alourdir le dépot
+Outil pour générer un gitignore de base :
+https://www.toptal.com/developers/gitignore
