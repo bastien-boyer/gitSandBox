@@ -1,0 +1,5 @@
+Git clone :
+Permet d'obtenir une copie d'un repository existant.
+
+commande :
+git clone <https://name-of-the-repository-link>
